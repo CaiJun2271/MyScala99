@@ -1,7 +1,5 @@
 package myscala99
 
-import scala.util.Try
-
 object P01 {
   // P01 (*) Find the last element of a list.
   //     Example:
